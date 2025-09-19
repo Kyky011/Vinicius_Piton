@@ -1,6 +1,6 @@
 # Vinicius
 Projeto Alura
-# Bruno_Lima
+# Vinicius Piton
 Projeto Alura
 # Site acessível sobre Samba
 # Sobre
