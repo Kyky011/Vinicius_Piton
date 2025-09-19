@@ -2,7 +2,7 @@
 Projeto Alura
 # Vinicius Piton
 Projeto Alura
-# Site acessível sobre Samba
+# Site sobre o Kendrick Lamar
 # Sobre
 Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
 ## Recursos de acessibilidade
